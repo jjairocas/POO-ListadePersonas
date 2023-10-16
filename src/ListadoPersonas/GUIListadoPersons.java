@@ -16,8 +16,6 @@ public class GUIListadoPersons extends JFrame{
     private JButton btnborrarLista;
     private JPanel MainPanel;
     private JButton salirButton;
-    private JButton editarButton;
-    private JButton guardarButton;
 
     public GUIListadoPersons() {
         setContentPane(MainPanel);
